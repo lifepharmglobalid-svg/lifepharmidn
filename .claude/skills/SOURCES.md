@@ -14,8 +14,9 @@ Each skill lives in its own directory containing a `SKILL.md` (Claude Code auto-
 | https://github.com/remotion-dev/remotion.git | 1 (remotion — the published video-creation skill) |
 | https://github.com/VoltAgent/awesome-openclaw-skills.git | 0 — this repo is a curated *index* (an "awesome list" of links), not installable skills |
 | https://github.com/anthropics/claude-code.git | 1 (frontend-design) |
+| _(authored in-repo — not an upstream import)_ | 1 (simplify) |
 
-**Total installed: 919 skills.**
+**Total installed: 920 skills.**
 
 ## Notes
 - Skill folder names are flat under `.claude/skills/`; no name collisions occurred across sources.
