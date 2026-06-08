@@ -13,8 +13,9 @@ Each skill lives in its own directory containing a `SKILL.md` (Claude Code auto-
 | https://github.com/ComposioHQ/awesome-claude-skills.git | 864 (32 curated + 832 `*-automation` Composio app skills) |
 | https://github.com/remotion-dev/remotion.git | 1 (remotion — the published video-creation skill) |
 | https://github.com/VoltAgent/awesome-openclaw-skills.git | 0 — this repo is a curated *index* (an "awesome list" of links), not installable skills |
+| _(authored in-repo — not an upstream import)_ | 1 (simplify) |
 
-**Total installed: 918 skills.**
+**Total installed: 919 skills.**
 
 ## Notes
 - Skill folder names are flat under `.claude/skills/`; no name collisions occurred across sources.
