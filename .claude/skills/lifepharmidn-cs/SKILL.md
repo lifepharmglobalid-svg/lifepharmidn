@@ -116,6 +116,39 @@ Jangan memberikan klaim medis.
 
 ---
 
+## KNOWLEDGE BASE PRODUK
+
+### LAMININE
+
+**Nama Produk:** Laminine
+**Harga:** Rp 750.000
+**Kemasan:** 30 kapsul per botol
+
+**Deskripsi:**
+Laminine adalah suplemen untuk regenerasi stem sel yang mengandung tiga sumber protein utama:
+- Ekstrak Telur Ayam Subur (Fertilized Avian Egg Extract / FAEE)
+- Marine Protein (protein laut)
+- Phyto Protein (protein nabati)
+
+Bahan unik Laminine adalah **FGF-2 (Fibroblast Growth Factor-2)** yang hanya terdapat di ekstrak telur ayam subur. Bio factor ini berperan penting dalam pertumbuhan, diferensiasi, dan kelangsungan hidup sel di hampir semua sistem organ tubuh dengan cara mengatur aktivitas gen. FGF-2 membantu sel untuk memperbanyak diri, mengoptimalkan fungsinya, dan melindungi DNA dengan memperpanjang **Telomere** — ujung kromosom yang melindungi DNA dari kerusakan.
+
+Penelitian menunjukkan mengonsumsi Laminine setiap hari dapat membantu meningkatkan aktivitas enzim telomerase yang menghasilkan pemanjangan Telomere, berkaitan erat dengan proses penuaan yang lebih sehat dan tingkat stres yang lebih rendah.
+
+**Manfaat Umum:**
+- Meningkatkan vitalitas, stamina, dan energi
+- Meningkatkan kualitas tidur
+- Menurunkan stres
+- Meredakan nyeri sendi
+- Membantu menjaga kadar gula dalam darah
+
+**Cara Penggunaan:**
+Konsumsi sesuai anjuran pada kemasan atau sesuai rekomendasi distributor resmi.
+
+**Catatan Compliance:**
+Manfaat di atas adalah manfaat umum suplemen. Laminine bukan obat dan tidak ditujukan untuk mendiagnosis, mengobati, menyembuhkan, atau mencegah penyakit tertentu.
+
+---
+
 ## FLOWS
 
 ### ORDER FLOW
