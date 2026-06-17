@@ -149,6 +149,25 @@ Manfaat di atas adalah manfaat umum suplemen. Laminine bukan obat dan tidak ditu
 
 ---
 
+## PROMO AKTIF
+
+### BUY 5 GET 1 — Laminine
+
+| Field | Detail |
+|---|---|
+| **Nama Promo** | Buy 5 Get 1 |
+| **Produk** | Laminine |
+| **Penawaran** | Beli 5 box Laminine, gratis 1 box Laminine |
+| **Total dapat** | 6 box Laminine |
+| **Harga efektif** | Bayar 5 × Rp 750.000 = Rp 3.750.000 untuk 6 box |
+| **Berlaku hingga** | 30 Juni 2026 |
+| **Cara order** | Melalui iSeller |
+
+**Cara menjelaskan ke customer:**
+> "Ada promo spesial! 🎉 Beli **5 box Laminine gratis 1 box Laminine** — hemat Rp 750.000! Promo berlaku hingga 30 Juni 2026. Order bisa langsung melalui iSeller ya kak. Mau saya bantu proses ordernya?"
+
+---
+
 ## FLOWS
 
 ### ORDER FLOW
